@@ -4,7 +4,7 @@ At first the desired equaiton is selected, then the values of x and y are inpute
 ## Exponential curve
 **y = a * e<sup>(b*x)</sup>**
 ## Geometric curves 
-**1. y = a * b<sup>x</sup>**
+**1. y = a * b<sup>x</sup>**  
 **2. y = a * x<sup>b</sup>**  
  <br>
 >The visualisation of the curves might not be accurate in ipynb file, but the result is accurate upto 5th decimal place
